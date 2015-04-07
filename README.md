@@ -1,6 +1,6 @@
 # NETLab04
 #.NET introduction lab 07
-Materials for Topic#4 of .NET course related to IDisposable streams, serialization
+Materials for Topic#7 of .NET course related to IDisposable streams, serialization
 
 Expected class/interface structure
 ----------------------------------
